@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutik Yadav</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding" width="400" height="230" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPotential17%2FPotential17&psig=AOvVaw2tZCsXlGUvkYOw8HS17cLI&ust=1739164380110000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCVnsfqtYsDFQAAAAAdAAAAABAp" />
+<img align="right" alt="coding" width="400" height="230" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutikyadav71&label=Profile%20views&color=0e75b6&style=flat" alt="rutikyadav71" /> </p>
 
